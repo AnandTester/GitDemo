@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="46" started-at="2021-06-23T10:37:07Z" finished-at="2021-06-23T10:37:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="46" started-at="2021-06-23T10:37:07Z" finished-at="2021-06-23T10:37:07Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:qaclickacademy.AppiumTest@4d49af10]" name="NativeAppAndroid" duration-ms="26" started-at="2021-06-23T16:07:07Z" finished-at="2021-06-23T16:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:qaclickacademy.AppiumTest@4d49af10]" name="deleteTwitter" duration-ms="0" started-at="2021-06-23T16:07:07Z" finished-at="2021-06-23T16:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4450d156]" name="BrowserAutomation" duration-ms="1" started-at="2021-06-23T16:07:07Z" finished-at="2021-06-23T16:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:qaclickacademy.SeleniumTest@4450d156]" name="elementUI" duration-ms="0" started-at="2021-06-23T16:07:07Z" finished-at="2021-06-23T16:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
